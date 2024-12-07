@@ -1,6 +1,10 @@
 # JS-Projekt-MyOoo
 
 Projekt zawiera tylko elementy FrontEndowe może nie wygląda pięknie ale działa.
+## Możliwości:
++ Zobaczenie ofert znajdujących się na stronie pod odpowiednią kategorią lub możliwością wyszukania po nazwie.
++ Na podstronie wyświetlenie ogert w danej kategori i możliwość sortowania ich.
++ Wyświetlenie pojedyńczego ogłoszenia.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
