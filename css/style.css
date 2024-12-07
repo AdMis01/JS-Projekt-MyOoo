@@ -274,7 +274,7 @@ main .contOfElements .mainContent{
 }
 
 .containerForImgPrice{
-    width: 80%;
+    width: 70%;
     display: flex;
     flex-direction: row;
 }
@@ -283,8 +283,9 @@ main .contOfElements .mainContent{
     width: 70%;
     background-color: white;
     padding:0 1rem 1rem 1rem;
-
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 .conftLeftPri {
     margin-left: 1rem;
@@ -302,7 +303,7 @@ main .contOfElements .mainContent{
 }
 
 .imgContainer img{
-    width: 100%;
+    width: 80%;
 }
 
 .priceContainer{
@@ -327,7 +328,7 @@ main .contOfElements .mainContent{
     margin-top: 1rem;
     display: flex;
     flex-direction: column;
-    width: 80%;
+    width: 70%;
     font-size: 1.2rem;
 }
 
