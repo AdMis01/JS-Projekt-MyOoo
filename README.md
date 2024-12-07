@@ -10,6 +10,8 @@ Projekt zawiera tylko elementy FrontEndowe może nie wygląda pięknie ale dzia�
 
 2. Wyszukiwanie
 
-
+![image](https://github.com/user-attachments/assets/4b4755e1-fec1-46d9-b46a-66bbf837020e)
 
 3. Pojedyńcze Ogłoszenie
+
+![image](https://github.com/user-attachments/assets/a88624e5-c2f4-43e1-a606-8fd319f486b4)
